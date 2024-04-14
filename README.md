@@ -17,7 +17,7 @@ In the future I plan to improve it by implementing:
 
 ### ✅ My other plans:
 * Learning Selenium with C# to develop some basic skillset for automated testing.
-* Developing an Alien Shooter like game in Unity 3D.
+* Developing an Alien Shooter-like game in Unity 3D.
 * Some project with ASP.NET to learn the framework better.
 <!--
 **WojciechMarczewski/WojciechMarczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
