@@ -5,7 +5,7 @@
 Here are my current plans for the app:
 * Improving the UI
 * Code refactoring
-* Implementation of Factory pattern for Chat Completion Service
+* Implementation of Factory pattern for MainViewModel
 * Unit testing
 * Adding scoreboard
 ### 🤔 'LaunchDeck' is an diary-like app which stands as notepad, but it saves your input automatically, without need to save it manually. 
