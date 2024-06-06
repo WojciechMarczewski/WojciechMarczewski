@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am a CS student and game tester willing to learn many concepts of Software Development.
+## I am a CS student willing to learn many concepts of Software Development.
 
 <!--
 **WojciechMarczewski/WojciechMarczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
