@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center"> About Me</h2>
 <div align="justify">
-I am a CS student willing to learn many concepts of Software Development currently working as a Game Tester for AAA game project. I am constantly expanding my knowledge about software development and each day I learn something new.
-<br>
+I am a Computer Science student with a passion for learning and exploring various concepts of Software Development. 
   <br>
-While my position as a Game Tester provides a unique perspective into the construction and intricacies of game development, I find myself yearning for new challenges that will stimulate my growth and broaden my horizons. I am eager to venture beyond my comfort zone to keep learning and growing. Plus, I could do with a better paycheck. 😉
-
+  <br>
+Having previously worked as a Game Tester on a AAA game project, I gained a unique perspective on the intricacies of game development. This experience provided valuable insights into the software lifecycle and the importance of attention to detail. Now, I am eager to embrace fresh challenges that will push my boundaries and accelerate my growth.
 </div>
 
 <h3 align="center"> Technologies I've dealt with:</h3>
