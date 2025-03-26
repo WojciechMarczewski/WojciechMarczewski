@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center"> About Me</h2>
 <div align="justify">
-I am a Computer Science student with a passion for learning and exploring various concepts of Software Development. 
+Study-buddy. Looking for job opportunities in IT - programming and testing. Passionate about expanding my knowledge in C# and .NET - still a lot to learn here.
+  <br> 
   <br>
-  <br>
-Having previously worked as a Game Tester on a AAA game project, I gained a unique perspective on the intricacies of game development. This experience provided valuable insights into the software lifecycle and the importance of attention to detail. Now, I am eager to embrace fresh challenges that will push my boundaries and accelerate my growth.
+Former Game Tester on a AAA PC game and Nintendo Switch project. 
 </div>
 
 <h3 align="center"> Technologies I've dealt with:</h3>
@@ -15,10 +15,7 @@ Having previously worked as a Game Tester on a AAA game project, I gained a uniq
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=plastic)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&style=plastic)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=plastic)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
 
