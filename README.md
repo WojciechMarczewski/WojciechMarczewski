@@ -68,6 +68,11 @@ Former Game Tester on a AAA PC game and Nintendo Switch project.
       <a href="https://helion.pl/ksiazki/algorytmy-struktury-danych-i-zlozonosc-obliczeniowa-feliks-kurp,alstda.htm"><i>Algorytmy. Struktury danych i złożoność obliczeniowa</i></a><br> by Feliks Kurp
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://helion.pl/ksiazki/git-od-koncepcji-do-praktyki-jacek-drag,gitsre.htm"><i>Git. Od koncepcji do praktyki</i></a><br> by Jacek Drąg
+    </td>
+  </tr>
 <!--
 **WojciechMarczewski/WojciechMarczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
